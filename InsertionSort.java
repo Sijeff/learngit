@@ -26,5 +26,6 @@ public class InsertionSort {
         long end = System.nanoTime();
         long duration = ( end - start ) / 1000000;
         System.out.println(duration);
+	System.out.println("Nya grejer!");
     }
 }
