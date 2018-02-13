@@ -1,3 +1,4 @@
+//Skriv mer kommentarer
 public class InsertionSort {
     private static void sort(double[] list, int start, int end){
         double temp;
